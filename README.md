@@ -2,18 +2,18 @@
 
 A responsive, modern portfolio website showcasing my skills and projects as a front-end web developer.
 
-## 🌟 Overview
+## Overview
 
 This portfolio highlights my expertise in HTML, CSS, and JavaScript, featuring a clean design with smooth animations and mobile-responsive layout. It includes sections for my bio, project showcase, and contact information.
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - **HTML5** - Semantic markup and structure
 - **CSS3** - Custom properties, gradients, flexbox, and responsive design
 - **JavaScript** - Interactive mobile menu and scroll functionality
 - **Google Fonts** - Ephesis and Delicious Handrawn for typography
 
-## ✨ Features
+## Features
 
 - **Responsive Design** - Optimized for desktop, tablet, and mobile devices
 - **Interactive Mobile Menu** - Hamburger menu with smooth animations
@@ -21,7 +21,7 @@ This portfolio highlights my expertise in HTML, CSS, and JavaScript, featuring a
 - **Accessibility** - ARIA attributes and semantic HTML
 - **Modern UI** - Cosmic theme with gradients and hover effects
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── index.html          # Main HTML file
@@ -35,7 +35,7 @@ This portfolio highlights my expertise in HTML, CSS, and JavaScript, featuring a
 └── README.md          # This file
 ```
 
-## 🛠️ Projects Featured
+## Projects Featured
 
 ### 1. Virtual Full-Stack Conference Website
 - **Tech**: HTML, CSS
@@ -59,7 +59,7 @@ This portfolio highlights my expertise in HTML, CSS, and JavaScript, featuring a
 - **Description**: Custom WordPress site with themes and plugins
 - **Live Demo**: [https://husnainali.co/](https://husnainali.co/)
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository**:
    ```bash
@@ -71,19 +71,19 @@ This portfolio highlights my expertise in HTML, CSS, and JavaScript, featuring a
    - Simply open `index.html` in your web browser
    - No build process or server required
 
-## 📱 Responsive Breakpoints
+## Responsive Breakpoints
 
 - **Mobile**: < 1024px (hamburger menu)
 - **Desktop**: ≥ 1024px (horizontal navigation)
 
-## 🎨 Color Scheme
+## Color Scheme
 
 - **Primary**: #6C63FF (Cosmic Purple)
 - **Secondary**: #00D4FF (Neon Blue)
 - **Background**: Radial gradient from #141A3A to #070A1A
 - **Text**: #E6E9FF (Soft White-Blue)
 
-## 📞 Contact
+## Contact
 
 I'm always open to discussing new opportunities and collaborations!
 
@@ -96,5 +96,4 @@ I'm always open to discussing new opportunities and collaborations!
 
 ---
 
-*Built with ❤️ by Hiba Dar*</content>
-<parameter name="filePath">c:\Users\User\Desktop\Homework\Hiba\Hiba Dar - Front-end Developer Portfolio\README.md
+*Built with ❤️ by Hiba Dar*</content> - Front-end Developer Portfolio\README.md
