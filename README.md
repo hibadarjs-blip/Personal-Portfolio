@@ -68,7 +68,7 @@ This portfolio highlights my expertise in HTML, CSS, and JavaScript, featuring a
    ```
 
 2. **Open in browser**:
-   - Simply open `index.html` in your web browser
+   - Simply enter "https://hibadar.com/" in your web browser
    - No build process or server required
 
 ## Responsive Breakpoints
