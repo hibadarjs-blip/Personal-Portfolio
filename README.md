@@ -96,4 +96,4 @@ I'm always open to discussing new opportunities and collaborations!
 
 ---
 
-*Built with ❤️ by Hiba Dar*</content> - Front-end Developer Portfolio\README.md
+*Built with ❤️ by Hiba Dar* - Front-end Developer
